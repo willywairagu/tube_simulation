@@ -1,0 +1,14 @@
+pandas
+numpy
+streamlit
+bokeh
+folium
+streamlit_folium
+networkx
+sklearn
+statsmodels
+tqdm
+jupyter
+ipywidgets
+widgetsnbextension
+pandas-profiling
